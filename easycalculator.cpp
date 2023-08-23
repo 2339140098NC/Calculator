@@ -48,9 +48,11 @@ int main(){
     }
     cout<<"result is: "<< result<<endl;
 
-    //test: making test changes.
+    //test1: making test changes.
 
-    //test: making new branches
+    //test2: making new branches
 
-    //test: making changes remotely
+    //test3: making changes remotely
+
+    //test4: making changes remotely and locally
 }
